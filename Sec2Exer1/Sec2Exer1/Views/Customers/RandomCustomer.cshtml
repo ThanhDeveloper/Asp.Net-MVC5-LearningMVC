@@ -1,0 +1,20 @@
+﻿@model Sec2Exer1.ViewModel.CustomerViewModel
+
+@{
+    ViewBag.Title = "RandomCustomer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customer</h2>
+@if (Model.CustomerList.Count == 0)
+{
+    <p>Customers not founds</p>
+}
+<ul>
+    @{
+        foreach (var customer in Model.CustomerList)
+        {
+            <li><a href="@Url.Action("Detail","Customers", new { customerName = customer.CustomerName})">@customer.CustomerName</a></li>
+        }
+    }
+</ul>

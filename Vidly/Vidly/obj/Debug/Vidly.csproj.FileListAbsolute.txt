@@ -73,3 +73,7 @@ C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\obj\Debug\Vidly.csprojAssemb
 C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\thanh\OneDrive\Máy tính\MVC5\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
